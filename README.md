@@ -83,12 +83,14 @@ This software is for research purpose only. </br>
 Please contact us for the licence of commercial purposes. All rights are preserved.
 
 # Contact
-Nanyang Wang (nywang16 at 163.com)
+Nanyang Wang (nywang16 AT 163.com)
 
-Yinda Zhang (zhangyinda at gmail.com)
+Yinda Zhang (zhangyinda AT gmail.com)
 
-Zhuwen Li (lzhuwen at gmail.com)
+Zhuwen Li (lzhuwen AT gmail.com)
 
-Yanwei Fu (yanweifu at fudan.edu.cn)
+Yanwei Fu (yanweifu AT fudan.edu.cn)
+
+Yu-Gang Jiang (ygj AT fudan.edu.cn)
 
 Any comments or suggestions are welcome !
