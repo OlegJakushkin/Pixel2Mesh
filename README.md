@@ -81,3 +81,14 @@ You can change the training data, learning rate and other parameters by editing 
 # Statement
 This software is for research purpose only. </br>
 Please contact us for the licence of commercial purposes. All rights are preserved.
+
+# Contact
+Nanyang Wang (nywang16 at 163.com)
+
+Yinda Zhang (zhangyinda at gmail.com)
+
+Zhuwen Li (lzhuwen at gmail.com)
+
+Yanwei Fu (yanweifu at fudan.edu.cn)
+
+Any comments or suggestions are welcome !
