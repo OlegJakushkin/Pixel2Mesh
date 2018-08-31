@@ -85,7 +85,7 @@ Please contact us for the licence of commercial purposes. All rights are preserv
 # Contact
 Nanyang Wang (nywang16 AT 163.com)
 
-Yinda Zhang (zhangyinda AT gmail.com)
+Yinda Zhang (yindaz AT cs.princeton.edu)
 
 Zhuwen Li (lzhuwen AT gmail.com)
 
